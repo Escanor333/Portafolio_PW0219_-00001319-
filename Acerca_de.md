@@ -1,1 +1,1 @@
-Read more https://ayudalinux.com/dos-formas-de-crear-un-archivo-de-texto-desde-la-terminal/
+Jose Raul Artiga Gutierrez 00001319  https://github.com/Escanor333
